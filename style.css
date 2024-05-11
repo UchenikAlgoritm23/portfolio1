@@ -1,0 +1,42 @@
+body {
+    font-family: sans-serif;
+    color: white;
+    background-color: black;
+}
+a{
+    text-decoration: none;
+    color: black;
+    background-color: lime;
+    padding: 5px;
+    margin: 5px;
+}
+link-header{
+
+}
+nav{
+    text-align: center;
+    position: relative;
+    top: 20px;
+    padding-bottom: 20px;
+
+
+}
+h1{
+
+    color: blueviolet;
+    text-align: center;
+    background-color: lime;
+    border-radius:15px ;
+    width: 152px;
+    padding: 10px;
+}
+h1:hover{
+    color: lime;
+    transition: all 2s linear;
+    background-color: blueviolet;
+}
+.social{
+    background-color: black;
+}
+
+
